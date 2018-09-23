@@ -23,8 +23,6 @@ $("#imagens img").mouseover(function(){
 
 	for(var i=0;i<depoimentos.length;i++){
 		if(depoimentos[i].id == $(this).attr("id")){
-			console.log(depoimentos[i]);
-
 			$("#depoimentoTexto").text(depoimentos[i].depoimento);
 			$("#depoimentoAutor").text(depoimentos[i].autor);
 			break;
