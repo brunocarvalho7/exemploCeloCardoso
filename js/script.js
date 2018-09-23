@@ -28,6 +28,4 @@ $("#imagens img").mouseover(function(){
 			break;
 		}
 	}
-
-	console.log(depoimentos);
 });
