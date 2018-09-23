@@ -3,7 +3,22 @@
 	width: 75%;
 }
 
-#texto{
+#depoimentos{
 	float: right;
 	width: 25%;
+}
+
+#depoimentoInicio{
+	float: left;
+    width: 3%;
+    font-size: 70px;
+    padding-top: 5px;
+    padding-right: 30px;
+    color: green;
+    font-family: -webkit-body;
+}
+
+#depoimentoAutor{
+	font-size: 16px;
+	color: green;
 }
