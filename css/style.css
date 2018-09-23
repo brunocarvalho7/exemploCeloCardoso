@@ -1,0 +1,9 @@
+#imagens{
+	float: left;
+	width: 75%;
+}
+
+#texto{
+	float: right;
+	width: 25%;
+}
